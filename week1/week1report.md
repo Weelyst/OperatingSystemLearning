@@ -72,7 +72,13 @@ Install Ubuntu Server 22.04 LTS di VirtualBox dengan langkah berikut:
 5. Reboot dan login ke sistem
 6. Dokumentasikan proses instalasi dengan screenshot key steps
 
+1.Opening VM
+week1\images\1.3_images\1making_new_vm1.jpg
+2.New Vm and mounting linux iso
+week1\images\1.3_images\2making_new_vm3.jpg
+3.After install linux and making new account
 installing images (with Description)
+week1\images\1.3_images\3after_login.jpg
 
 Latihan 1.4
 Setelah instalasi Ubuntu Server, lakukan tasks berikut:
@@ -84,7 +90,14 @@ Setelah instalasi Ubuntu Server, lakukan tasks berikut:
 6. Check memory dengan free -h
 7. Dokumentasikan output dari setiap command
 
-Images(With Description)
+1.UpdateALL
+week1\images\1.4_images\1allupdate.jpg
+2.NeoFetch
+week1\images\1.4_images\2neofetch.jpg
+3.df -h
+week1\images\1.4_images\3dfh.jpg
+4.free -h
+week1\images\1.4_images\4freeh.jpg
 
 Latihan 1.5
 Eksplorasi sistem yang baru diinstall:
@@ -94,6 +107,23 @@ Eksplorasi sistem yang baru diinstall:
 4. Check network connectivity: ping -c 4 google.com
 5. Install dan jalankan htop untuk melihat resource usage
 6. Buat laporan singkat tentang konfigurasi sistem Anda
+1.
+week1\images\1.5_images\checkcat.jpg
+
+2.
+week1\images\1.5_images\unameR.jpg
+
+3.
+week1\images\1.5_images\lsblk.jpg
+
+4.
+week1\images\1.5_images\pingtest2.jpg
+
+5.
+
+week1\images\1.5_images\htop.jpg
+
+6. sistem telah mengunakan versi terbaru,terhubung dengan internet, dan bekerja normal
 
 
 Latihan 1.6
