@@ -29,23 +29,39 @@ Linux (command)
 
 proof
 windows
-
+week1\images\1.1_images\w1.taskmanager.jpg
+week1\images\1.1_images\w3.winexplorer.jpg
+week1\images\1.1_images\w5.windowsSecurity.jpg
 linux(ubuntu)
-![D:\gh repo\OperatingSystemLearning\week1\images\1.1_images\lx1.top.jpg](images/1.1_images/lx1.top.jpg)
+week1\images\1.1_images\lx1.top.jpg
+week1\images\1.1_images\lx5.sudo.jpg
 
 Latihan 1.2
 Kapan sebaiknya menggunakan Windows vs Linux vs macOS? Analisis
 berdasarkan use case: gaming, development, server, creative work, dan enterprise.
 
-Gaming
--
-Development
--
-Server
--
-CreativeWork
--
-Enterprise
+A.Gaming
+Windows Ketika ingin memainkan game dengan stabil dan kompatibel
+LX game yang opensource/indie
+MacOs hardware kurang untuk game
+
+B.Development
+Win = .Net dan GameDev
+Lx =  Banyak Support thd linux
+MacOs = Bisa Fullstack mirip linux
+
+C.Server
+Win = Enterprise Specific
+Lx = Mayoritas server dunia pakai Linux
+MacOs = Jarang digunakan untuk server production
+D.CreativeWork
+Win = GPU high-end support, Banyak software profesional tersedia
+Lx = Ada, Namun kurang
+MacOs = Optimasi hardware-software Apple & aplikasi premium apple
+E.Enterprise
+Win = The Common choices
+Lx = Cheap,Better for Dev
+MacOs = Bagus Untuk Startup
 
 Latihan 1.3
 Install Ubuntu Server 22.04 LTS di VirtualBox dengan langkah berikut:
