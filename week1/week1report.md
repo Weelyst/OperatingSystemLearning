@@ -31,7 +31,7 @@ proof
 windows
 
 linux(ubuntu)
-D:\gh repo\OperatingSystemLearning\week1\images\1.1_images\lx1.top.jpg
+![D:\gh repo\OperatingSystemLearning\week1\images\1.1_images\lx1.top.jpg](images/1.1_images/lx1.top.jpg)
 
 Latihan 1.2
 Kapan sebaiknya menggunakan Windows vs Linux vs macOS? Analisis
