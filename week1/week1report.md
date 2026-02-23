@@ -54,10 +54,12 @@ C.Server
 Win = Enterprise Specific
 Lx = Mayoritas server dunia pakai Linux
 MacOs = Jarang digunakan untuk server production
+
 D.CreativeWork
 Win = GPU high-end support, Banyak software profesional tersedia
 Lx = Ada, Namun kurang
 MacOs = Optimasi hardware-software Apple & aplikasi premium apple
+
 E.Enterprise
 Win = The Common choices
 Lx = Cheap,Better for Dev
@@ -150,4 +152,5 @@ Tulis refleksi Anda dalam 300-500 kata disertai dengan dokumentasi.
 5.Linux, tepatnya Distro linux mint, saya menggunakan linux mint saat mencoba menghidupkan kembali komputer tua saya, Linux mint dan Windows hampir Mirip namun di linux mint kebanyakan harus menggunakan aplikasi eksternal seperti Wine atau melakukan download via command
 
 6. Mungkin saya akan menunggu ketersediaan support Aplikasi dari Distro2 OS Linux, karena penggunaan hardware yang terkadang dikatakan sangat minim dari os tersebut, menjadi alternatif saya ketika Os Windows mendapatkan update besar, yang membuat banyak sekali komputer maupun laptop yang spesifikasinya sudah bisa dikatakan ketinggalan zaman, dan juga bisa menghemat biaya dari pemalakan key windows yang sangat menggangu maupun Update yang kini juga membahayakan pengguna karena update yang dikeluarkan menghasilkan bug-bug yang diluar kendali orang awam 
-Images
+Berikut adalah pilihan saya jika ingin bermain game menggunakan distro linux
+week1\images\final_picture.jpg
