@@ -3,6 +3,8 @@ Averose Arthur R
 TI - 1H
 
 Praktikum 2.1
+
+
 ![https://github.com/Weelyst/OperatingSystemLearning/blob/main/week2/images/2.1/free-h.jpg](https://github.com/Weelyst/OperatingSystemLearning/blob/main/week2/images/2.1/free-h.jpg)
 ![https://github.com/Weelyst/OperatingSystemLearning/blob/main/week2/images/2.1/lscpu.jpg](https://github.com/Weelyst/OperatingSystemLearning/blob/main/week2/images/2.1/lscpu.jpg)
 
