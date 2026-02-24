@@ -20,6 +20,12 @@ Windows
 5.Windows Security
 proof
 
+![Task Manager](week1/images/1.1_images/w1.taskmanager.jpg)
+
+![Windows Explorer](week1/images/1.1_images/w3.winexplorer.jpg)
+
+![Windows Security](week1/images/1.1_images/w5.windowsSecurity.jpg)
+
 Linux (command)
 1.top, ps
 2.free, swap
@@ -28,13 +34,10 @@ Linux (command)
 5.sudo + permission system
 
 proof
-windows
-week1\images\1.1_images\w1.taskmanager.jpg
-week1\images\1.1_images\w3.winexplorer.jpg
-week1\images\1.1_images\w5.windowsSecurity.jpg
-linux(ubuntu)
-week1\images\1.1_images\lx1.top.jpg
-week1\images\1.1_images\lx5.sudo.jpg
+
+![Top Command](week1/images/1.1_images/lx1.top.jpg)
+
+![Sudo Permission](week1/images/1.1_images/lx5.sudo.jpg)
 
 Latihan 1.2
 Kapan sebaiknya menggunakan Windows vs Linux vs macOS? Analisis
@@ -75,12 +78,16 @@ Install Ubuntu Server 22.04 LTS di VirtualBox dengan langkah berikut:
 6. Dokumentasikan proses instalasi dengan screenshot key steps
 
 1.Opening VM
-week1\images\1.3_images\1making_new_vm1.jpg
+
+![Making New VM](week1/images/1.3_images/1making_new_vm1.jpg)
+
 2.New Vm and mounting linux iso
-week1\images\1.3_images\2making_new_vm3.jpg
+
+![New VM with ISO](week1/images/1.3_images/2making_new_vm3.jpg)
+
 3.After install linux and making new account
-installing images (with Description)
-week1\images\1.3_images\3after_login.jpg
+
+![After Login](week1/images/1.3_images/3after_login.jpg)
 
 Latihan 1.4
 Setelah instalasi Ubuntu Server, lakukan tasks berikut:
@@ -93,13 +100,20 @@ Setelah instalasi Ubuntu Server, lakukan tasks berikut:
 7. Dokumentasikan output dari setiap command
 
 1.UpdateALL
-week1\images\1.4_images\1allupdate.jpg
+
+![Update All](week1/images/1.4_images/1allupdate.jpg)
+
 2.NeoFetch
-week1\images\1.4_images\2neofetch.jpg
+
+![NeoFetch](week1/images/1.4_images/2neofetch.jpg)
+
 3.df -h
-week1\images\1.4_images\3dfh.jpg
+
+![Disk Usage](week1/images/1.4_images/3dfh.jpg)
+
 4.free -h
-week1\images\1.4_images\4freeh.jpg
+
+![Memory Usage](week1/images/1.4_images/4freeh.jpg)
 
 Latihan 1.5
 Eksplorasi sistem yang baru diinstall:
@@ -109,24 +123,28 @@ Eksplorasi sistem yang baru diinstall:
 4. Check network connectivity: ping -c 4 google.com
 5. Install dan jalankan htop untuk melihat resource usage
 6. Buat laporan singkat tentang konfigurasi sistem Anda
+
 1.
-week1\images\1.5_images\checkcat.jpg
+
+![OS Release](week1/images/1.5_images/checkcat.jpg)
 
 2.
-week1\images\1.5_images\unameR.jpg
+
+![Uname](week1/images/1.5_images/unameR.jpg)
 
 3.
-week1\images\1.5_images\lsblk.jpg
+
+![Partition](week1/images/1.5_images/lsblk.jpg)
 
 4.
-week1\images\1.5_images\pingtest2.jpg
+
+![Ping Test](week1/images/1.5_images/pingtest2.jpg)
 
 5.
 
-week1\images\1.5_images\htop.jpg
+![HTOP](week1/images/1.5_images/htop.jpg)
 
-6. sistem telah mengunakan versi terbaru,terhubung dengan internet, dan bekerja normal
-
+6. sistem telah mengunakan versi terbaru, terhubung dengan internet, dan bekerja normal
 
 Latihan 1.6
 Ceritakan pengalaman Anda dengan sistem operasi:
@@ -153,4 +171,6 @@ Tulis refleksi Anda dalam 300-500 kata disertai dengan dokumentasi.
 
 6. Mungkin saya akan menunggu ketersediaan support Aplikasi dari Distro2 OS Linux, karena penggunaan hardware yang terkadang dikatakan sangat minim dari os tersebut, menjadi alternatif saya ketika Os Windows mendapatkan update besar, yang membuat banyak sekali komputer maupun laptop yang spesifikasinya sudah bisa dikatakan ketinggalan zaman, dan juga bisa menghemat biaya dari pemalakan key windows yang sangat menggangu maupun Update yang kini juga membahayakan pengguna karena update yang dikeluarkan menghasilkan bug-bug yang diluar kendali orang awam 
 Berikut adalah pilihan saya jika ingin bermain game menggunakan distro linux
-week1\images\final_picture.jpg
+
+![Gaming Linux Distro](week1/images/final_picture.jpg)
+
