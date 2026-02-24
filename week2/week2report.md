@@ -3,9 +3,8 @@ Averose Arthur R
 TI - 1H
 
 Praktikum 2.1
-1.
-2.
-
+week2\images\2.1\free -h.jpg
+week2\images\2.1\lscpu.jpg
 
 Latihan 2.1
 Catat: (1) jumlah CPU(s), core/thread, (2) total RAM, (3) total swap. Jelaskan perbedaan RAM vs swap dalam 2–3 kalimat.
