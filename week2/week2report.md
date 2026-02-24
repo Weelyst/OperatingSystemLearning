@@ -1,12 +1,10 @@
 Averose Arthur R
-254107020042
-TI - 1H
+| 254107020042 | TI - 1H |
 
-Praktikum 2.1
+## Praktikum 2.1
 
-
-![https://github.com/Weelyst/OperatingSystemLearning/blob/main/week2/images/2.1/free-h.jpg](https://github.com/Weelyst/OperatingSystemLearning/blob/main/week2/images/2.1/free-h.jpg)
-![https://github.com/Weelyst/OperatingSystemLearning/blob/main/week2/images/2.1/lscpu.jpg](https://github.com/Weelyst/OperatingSystemLearning/blob/main/week2/images/2.1/lscpu.jpg)
+![free-h](https://github.com/Weelyst/OperatingSystemLearning/blob/main/week2/images/2.1/free-h.jpg)
+![lscpu](https://github.com/Weelyst/OperatingSystemLearning/blob/main/week2/images/2.1/lscpu.jpg)
 
 Latihan 2.1
 Catat: (1) jumlah CPU(s), core/thread, (2) total RAM, (3) total swap. Jelaskan perbedaan RAM vs swap dalam 2–3 kalimat.
