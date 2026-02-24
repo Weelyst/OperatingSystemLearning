@@ -73,21 +73,52 @@ Block Device Menggunakan B
 Character Device Menggunakan C
 
 Praktikum 2.7 — Melihat Informasi udev
-
+week2\images\2.7\1.lihatatribut_udev.jpg
 Praktikum 2.8 — Membuat Workspace Praktikum
+week2\images\2.8\making_and_changing_directory.jpg
+week2\images\2.8\2.filecontoh.jpg
+week2\images\2.8\cat_data_log.jpg
+week2\images\2.8\lessdatalog.jpg
 Praktikum 2.9 — Pencarian Pola dengan grep
+week2\images\2.9\1.grep.jpg
+week2\images\2.9\2.grep.jpg
+week2\images\2.9\3.grep.jpg
+week2\images\2.9\4.grep.jpg
+Praktikum 2.10 — Substitusi dengan sed (Aman di File Latihan)
+week2\images\2.10\1..jpg
+week2\images\2.10\2..jpg
+week2\images\2.10\3..jpg
+week2\images\2.10\4..jpg
+
 Latihan 2.4
 Gunakan grep untuk menampilkan hanya baris yang mengandung INFO atau
 WARN dari data.log. (Hint: gunakan grep -E dengan pola alternatif)
-
 week2\images\training2.4.jpg
 
-
 Praktikum 2.11 — Ekstraksi Kolom dengan awk
+week2\images\2.11\1..jpg
+week2\images\2.11\2..jpg
+week2\images\2.11\3..jpg
+
 Praktikum 2.12 — Melihat Proses dengan ps
+week2\images\2.12\1.jpg
+week2\images\2.12\2..jpg
+
 Praktikum 2.13 — Monitoring Real-time dengan top
+week2\images\2.13\top.jpg
+
 Praktikum 2.14 — Menghentikan Proses dengan kill
+week2\images\2.14\1..jpg
+week2\images\2.14\2..jpg
+week2\images\2.14\3..jpg
+week2\images\2.14\4.jpg
+
 Praktikum 2.15 — Cek Disk, Load, dan Service
+
+week2\images\2.15\1.chck_disk.jpg
+week2\images\2.15\2.bigdir.jpg
+week2\images\2.15\3.uptime.jpg
+week2\images\2.15\4.check_fail.jpg
 
 Praktikum 2.16 — Monitoring Port dan Koneksi
 (Network Basics)
