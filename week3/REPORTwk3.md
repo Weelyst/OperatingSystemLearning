@@ -4,7 +4,7 @@ WEEK3
 ## AVEROSE ARTHUR R/TI-1H/04
 ## Latihan 3.1
 **Code**
-![script_3.1](week3/images/3.1/script_3.1.jpg)
+![!\[alt text\](https://github.com/Weelyst/OperatingSystemLearning/blob/main/week3/images/3.1/run_3.1.jpg)](https://github.com/Weelyst/OperatingSystemLearning/blob/main/week3/images/3.1/run_3.1.jpg)
 
 **Run**
 ![run_3.1](week3/images/3.1/run_3.1.jpg)
