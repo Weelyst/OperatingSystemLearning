@@ -47,7 +47,7 @@ Langkah-langkah:
 pwd
 echo $HOME
 ```
-![pwd_home](week4\images\P1\pwd_home.jpg "1")
+![pwd_home](week4/images/P1/pwd_home.jpg "1")
 
 2. Melihat direktori aktual dan parent
 ```
@@ -58,7 +58,7 @@ cd ..
 pwd
 cd
 ```
-![2directori_aktualparent](week4\images\P1\2directori_aktualparent.jpg)
+![2directori_aktualparent](week4/images/P1/2directori_aktualparent.jpg)
 
 3. Membuat satu direktori, lebih dari satu direktori atau sub direktori
 ```
