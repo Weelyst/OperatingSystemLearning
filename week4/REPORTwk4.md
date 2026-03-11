@@ -89,9 +89,9 @@ cd A
 pwd
 cd ..
 pwd
-cd /home/laut/C
+cd /home/ogurifat64/C
 pwd
-cd /laut/C
+cd /ogurifat64/C
 pwd
 ```
 ![alt text](images/P1/5.jpg)
