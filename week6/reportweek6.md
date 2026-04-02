@@ -56,12 +56,16 @@ ketikan exit code 2, maka code yang dijalankan adalah erorr
 ## 6.3
 1. Jalankan nice -n 5 sleep 200 & dan verifikasi nilai NI-nya dengan
 ps.
+
 ![nice n](images/6.3/1.png)
+
 2. Ubah nilai nice menjadi 10 menggunakan renice, lalu verifikasi kembali.
+
 ![renice 10](images/6.3/2.png)
 
 3. Coba ubah nilai nice menjadi -5 tanpa sudo. Apa yang terjadi? Mengapa
 Linux membatasi hal ini untuk user biasa?
+
 ![ha](images/6.3/3.png)
 
 1. Mencegah Monopoli CPU (Starvation)
