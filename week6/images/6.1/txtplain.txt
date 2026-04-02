@@ -1,0 +1,2 @@
+ps aux akan menampilkan process ringan seperti thread dalam 1 line saja.
+sedangkan ps aux -L akan menampilkan semua proses thread yang digunakan dalam line berbeda tiap thread

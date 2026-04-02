@@ -1,0 +1,9 @@
+1. Mencegah Monopoli CPU (Starvation)
+Nilai nice yang lebih rendah (negatif) memberikan prioritas lebih tinggi kepada proses tersebut di mata CPU Scheduler. Jika user biasa diizinkan memberikan nilai -20 pada semua proses mereka, mereka bisa memonopoli CPU secara total.
+Akibatnya, proses sistem yang penting (seperti driver, antarmuka grafis, atau layanan jaringan) tidak akan mendapatkan giliran kerja, yang menyebabkan sistem hang atau tidak responsif.
+
+2. Keadilan (Fairness) dalam Sistem Multi-User
+Linux dirancang sebagai sistem multi-user. Jika setiap user bisa menaikkan prioritas proses mereka sendiri ke tingkat maksimal, maka akan terjadi "perang prioritas". User yang paling agresif mengatur nilai negatif akan mematikan produktivitas user lainnya. Pembatasan ini memastikan tidak ada satu user pun yang bisa merugikan user lain tanpa izin administrator.
+
+3. Keamanan dari Serangan DoS (Denial of Service)
+Tanpa batasan ini, seorang user (atau skrip berbahaya yang dijalankan user) bisa dengan mudah melakukan serangan Denial of Service lokal. Mereka cukup menjalankan proses komputasi berat dengan nilai -20, sehingga administrator bahkan mungkin tidak bisa menjalankan perintah kill untuk menghentikan proses tersebut karena terminal pun tidak kebagian jatah CPU untuk memproses perintah

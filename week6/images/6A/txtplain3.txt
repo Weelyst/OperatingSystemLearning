@@ -1,0 +1,20 @@
+2. Mengapa sebagian besar proses berada dalam kondisi S?
+Dalam sistem Linux yang sehat, sangat wajar jika 90% hingga 99% proses berada dalam kondisi Interruptible Sleep. Hal ini bukan berarti sistem Anda lambat atau bermasalah; justru ini adalah tanda efisiensi.
+
+Berikut adalah alasan utamanya:
+
+A. Menunggu Input atau Event (Event-Driven)
+Sebagian besar proses di latar belakang (daemons) tidak perlu bekerja setiap detik. Mereka hanya "bangun" jika ada pemicu tertentu.
+
+Contoh: Proses layanan keyboard hanya akan bekerja saat Anda menekan tombol. Sisanya? Ia tidur (S) menunggu sinyal dari perangkat keras.
+
+Contoh: Layanan server database menunggu permintaan query masuk melalui jaringan.
+
+B. Menunggu I/O (Input/Output)
+Kecepatan CPU jauh lebih tinggi daripada kecepatan disk (SSD/HDD) atau jaringan. Saat sebuah proses meminta data dari internet atau membaca file yang besar, CPU akan menyelesaikan tugasnya dalam sekejap, lalu memindahkan proses tersebut ke status S (atau D jika sangat sibuk) agar CPU bisa mengerjakan hal lain sementara menunggu data datang.
+
+C. Efisiensi Penggunaan Daya dan Resource
+Jika semua proses berada dalam status R (Running), CPU akan bekerja 100% terus-menerus. Ini akan menyebabkan baterai laptop cepat habis dan suhu prosesor menjadi sangat panas. Dengan menempatkan proses dalam kondisi S, kernel Linux memastikan bahwa hanya proses yang benar-benar punya "pekerjaan" yang mendapatkan jatah putaran CPU.
+
+D. Penjadwalan Kernel (Preemptive Multitasking)
+Kernel Linux bertindak sebagai polisi lalu lintas yang sangat ketat. Ia memberikan waktu yang sangat singkat (beberapa milidetik) bagi setiap proses untuk berjalan. Setelah waktunya habis, jika proses tersebut harus menunggu data atau giliran berikutnya, kernel akan menidurkannya agar proses lain bisa lewat.

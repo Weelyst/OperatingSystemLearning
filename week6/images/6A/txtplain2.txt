@@ -1,0 +1,16 @@
+Mengapa root memiliki lebih banyak proses?
+Sangat normal jika root memiliki jumlah proses yang jauh lebih banyak daripada user biasa (bahkan saat Anda sedang aktif menggunakan komputer). Berikut adalah alasan utamanya:
+
+A. Kernel Threads dan Services Utama
+Saat Linux melakukan booting, ia menjalankan ratusan layanan latar belakang (daemons) yang diperlukan agar sistem operasi bisa berfungsi. Layanan ini membutuhkan hak akses tertinggi untuk mengelola perangkat keras, memori, dan jaringan, sehingga dijalankan sebagai root.
+
+Contoh: systemd (induk dari semua proses), kthreadd, layanan jurnal (journald), dan manajemen jaringan.
+
+B. Manajemen Perangkat Keras (Hardware)
+Proses yang berinteraksi langsung dengan driver atau perangkat keras (seperti mengatur kecerahan layar, manajemen baterai, atau input keyboard) harus berjalan di bawah user root demi keamanan. User biasa dibatasi agar tidak bisa mengacak-acak instruksi perangkat keras secara langsung.
+
+C. Penjaga Keamanan dan Log
+Banyak proses root yang bertugas memantau keamanan sistem, memeriksa log aktivitas, atau menunggu permintaan koneksi (seperti SSH server). Mereka harus tetap berjalan ("standby") di latar belakang agar sistem tetap aman dan bisa diakses kapan saja.
+
+D. Menjalankan Lingkungan untuk User
+Bahkan proses yang memungkinkan Anda untuk login dan melihat tampilan desktop (seperti Display Manager) awalnya dijalankan oleh root sebelum akhirnya "menyerahkan" sesi tersebut kepada user Anda.

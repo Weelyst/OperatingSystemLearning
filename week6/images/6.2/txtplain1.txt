@@ -1,0 +1,9 @@
+Proses sleep berada dalam status S (Interruptible Sleep) karena alasan teknis berikut:
+
+Tidak Memerlukan CPU: Fungsi utama sleep adalah menunda eksekusi selama durasi tertentu. Selama durasi tersebut, proses tidak memiliki instruksi untuk dihitung oleh CPU.
+
+Efisiensi Sumber Daya: Alih-alih terus-menerus bertanya pada CPU "Apakah sudah 120 detik?" (yang akan memakan penggunaan CPU 100%), proses ini mendaftarkan diri ke kernel untuk dibangunkan nanti.
+
+Menunggu Timer: Kernel akan memindahkan proses dari Running State ke Waiting/Sleeping State. Proses akan tetap diam di sana sampai timer internal sistem mengirimkan sinyal interupsi yang menyatakan bahwa waktu telah habis.
+
+Dapat Diinterupsi: Status S disebut interruptible karena meskipun sedang tidur, proses tersebut masih "mendengarkan" sinyal luar. Jika Anda mengirim perintah kill atau menekan Ctrl+C, proses akan langsung bereaksi dan mati sebelum waktu 120 detik tercapai.

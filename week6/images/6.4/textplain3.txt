@@ -1,0 +1,2 @@
+Sigterm digunakan ketika proses masih normal tanpa load tinggi
+sigkill ketika proses perlu dipaksa end, secara paksa meng end suatu proses

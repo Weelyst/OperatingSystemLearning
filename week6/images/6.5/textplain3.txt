@@ -1,0 +1,2 @@
+top tidak dapat berjalan dengan baik, maka di system akan menjadi status T (Stopped)
+shell akan mendeteksi bahwa proses background mencoba menulis ke terminal

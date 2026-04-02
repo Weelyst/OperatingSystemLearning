@@ -1,0 +1,2 @@
+terlihat bahwa ketika program yang berhasil akan mengeluarkan exit code 0, dimana kode berhasil running
+ketikan exit code 2, maka code yang dijalankan adalah erorr
