@@ -4,107 +4,172 @@
 
 ## Praktikum 1
 1. Membuat direktori scripts
+
 ![alt text](Images/7.1/0.1.png)
 
 2. ISI kode laporan-sistem.sh 
+
 ![ISI KODE](Images/7.1/1.png)
 
 3. run kode
+
 ![run](Images/7.1/2.png)
 
 ## latihan
 1. update isi kode laporan sistem.sh
+
 ![isi](Images/7.1/latihan-latihan-7.1.png)
 
 2. Run kode baru
+
 ![run](Images/7.1/latianlatian_ans.png)
 
 ## Praktikum 2
+
 1. isi kode info sistem 
+
 ![alt text](Images/7.2/1.png)
 
 2. run kode
+
 ![alt text](Images/7.2/2.png)
 
 ## latihan 2
+
 1. update kode 
+
 ![alt text](Images/7.2/latian-latian9.5_1.png)
 
 2. run
+
 ![alt text](Images/7.2/latian-latian9.5_2.png)
 
 ## Praktikum 3
-1. ![alt text](Images/7.3/1.png)
 
-2. ![alt text](Images/7.3/2.png)
+1. 
+![alt text](Images/7.3/1.png)
 
-3. ![alt text](Images/7.3/3.png)
+2. 
+![alt text](Images/7.3/2.png)
 
-4. ![alt text](Images/7.3/4.png)
+3. 
+![alt text](Images/7.3/3.png)
 
-5. ![alt text](Images/7.3/5.png)
+4. 
+![alt text](Images/7.3/4.png)
+
+5. 
+![alt text](Images/7.3/5.png)
 
 ## latihan 3
-1. ![alt text](Images/7.3/6_1.png)
+1. 
+![alt text](Images/7.3/6_1.png)
 
 ![alt text](Images/7.3/6_2.png)
 
-2. ![alt text](Images/7.3/7.png)
+2. 
+![alt text](Images/7.3/7.png)
 
 ## Praktikum 4
-1. ![alt text](Images/7.4/1.png)
+1. 
 
-2. ![alt text](Images/7.4/2.png)
+![alt text](Images/7.4/1.png)
 
-3. ![alt text](Images/7.4/3.png)
+2. 
 
-4. ![alt text](Images/7.4/4.png)
+![alt text](Images/7.4/2.png)
 
-5. ![alt text](Images/7.4/5.png)
+3. 
 
-6. ![alt text](Images/7.4/6.png)
+![alt text](Images/7.4/3.png)
+
+4. 
+
+![alt text](Images/7.4/4.png)
+
+5. 
+
+![alt text](Images/7.4/5.png)
+
+6. 
+
+![alt text](Images/7.4/6.png)
 
 
 ## latihan 4
+
 ![alt text](Images/7.4/7_1.png)
 
+
 ![alt text](Images/7.4/7_2.png)
+
 
 ![alt text](Images/7.4/7_3.png)
 
 ## Praktikum 5
-1. ![alt text](Images/7.5/1.png)
+1. 
 
-2. ![alt text](Images/7.5/2.png)
+![alt text](Images/7.5/1.png)
 
-3. ![alt text](Images/7.5/3.png)
+2. 
+
+![alt text](Images/7.5/2.png)
+
+3. 
+
+![alt text](Images/7.5/3.png)
 
 ## Praktikum 6
-1. ![alt text](Images/7.6/1.png)
+1. 
 
-2. ![alt text](Images/7.6/2.png)
+![alt text](Images/7.6/1.png)
 
-3. ![alt text](Images/7.6/3.png)
+2. 
 
-4. ![alt text](Images/7.6/4.png)
+![alt text](Images/7.6/2.png)
+
+3. 
+
+![alt text](Images/7.6/3.png)
+
+4. 
+
+![alt text](Images/7.6/4.png)
  
 ## latihan 5
-5. ![alt text](Images/7.6/5.png)
+5. 
+![alt text](Images/7.6/5.png)
 
-6. ![alt text](Images/7.6/6.png)
+6. 
+
+![alt text](Images/7.6/6.png)
 
 ## Tugas 1 
-1. ![alt text](Images/tgs1/1.png)
+1. 
 
-2. ![alt text](Images/tgs1/1_1.png)
+![alt text](Images/tgs1/1.png)
 
-3. ![alt text](Images/tgs1/2.png)
+2. 
+
+![alt text](Images/tgs1/1_1.png)
+
+3. 
+
+![alt text](Images/tgs1/2.png)
 
 ## Tugas 2 
-1. ![alt text](Images/tgs2/1.png)
+1. 
 
-2. ![alt text](Images/tgs2/1_1.png)
+![alt text](Images/tgs2/1.png)
 
-3. ![alt text](Images/tgs2/2.png)
+2. 
 
-4. ![alt text](Images/tgs2/3.png)
+![alt text](Images/tgs2/1_1.png)
+
+3. 
+
+![alt text](Images/tgs2/2.png)
+
+4. 
+
+![alt text](Images/tgs2/3.png)
